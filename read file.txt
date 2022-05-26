@@ -1,0 +1,12 @@
+Secret key value
+Secret1 : nl28Q~LbR8OKtg~P~ZZjNTbwi4d1d3IB2_qGvbJp
+
+Client ID: 1af143e3-5777-493f-8b7b-081161e8f674
+tanant ID: 687f51c3-0c5d-4905-84f8-97c683a5b9d1
+
+secret1 value: nl28Q~LbR8OKtg~P~ZZjNTbwi4d1d3IB2_qGvbJp
+
+
+sub ID: 4b108c43-18a3-45c0-ab9d-cd953b6d9298
+
+bp name: neu-blp-gitactions-mk1
